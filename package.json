@@ -1,0 +1,37 @@
+{
+  "name": "rlm-bun",
+  "version": "0.1.0",
+  "description": "A Bun-based implementation of Recursive Language Models (RLMs) for unbounded context processing",
+  "module": "index.ts",
+  "type": "module",
+  "author": "DKB0512",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/rlm-bun.git"
+  },
+  "keywords": [
+    "rlm",
+    "recursive",
+    "language-model",
+    "long-context",
+    "llm",
+    "bun",
+    "openai",
+    "ai",
+    "context-window"
+  ],
+  "scripts": {
+    "start": "bun run index.ts"
+  },
+  "private": false,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "openai": "^6.15.0"
+  }
+}
