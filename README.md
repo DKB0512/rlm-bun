@@ -1,11 +1,11 @@
-# rlm-bun
+# RLM-Bun
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Bun](https://img.shields.io/badge/Bun-1.3.5-black)](https://bun.sh)
 
 > A Bun-based implementation of Recursive Language Models (RLMs) - enabling unbounded context processing through recursive LLM decomposition.
 
-## 🧠 About RLM
+## 🧠 About RLM - Recursive Language Models
 
 This project implements **Recursive Language Models (RLMs)**, a paradigm-shifting approach to long-context reasoning published by MIT CSAIL in December 2025 (arXiv:2512.24601). RLMs enable language models to process arbitrarily long prompts by programmatically decomposing and recursively calling themselves over context snippets, handling inputs up to 100x beyond standard model context windows.
 
