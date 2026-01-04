@@ -42,7 +42,7 @@ graph TD
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/DKB0512/rlm-bun.git
 cd rlm-bun
 
 # Install dependencies
