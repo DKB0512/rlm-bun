@@ -59,7 +59,7 @@ cp .env.example .env
 
 | Variable | Description | Default |
 |----------|-------------|---------|
-| `OPENROUTER_URL` | OpenRouter API endpoint | https://openrouter.ai/api/v1/chat/completions |
+| `OPENROUTER_URL` | OpenRouter API endpoint | https://openrouter.ai/api/v1 |
 | `OPENROUTER_KEY` | Your OpenRouter API key | - |
 | `SITE_URL` | Your site URL for referer header | https://your-site.com |
 | `SITE_NAME` | Your project name | Your Project Name |
